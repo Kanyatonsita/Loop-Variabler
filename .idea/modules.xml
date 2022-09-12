@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Uppgift2/Uppgift2.iml" filepath="$PROJECT_DIR$/Uppgift2/Uppgift2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uppgift4/Uppgift4.iml" filepath="$PROJECT_DIR$/Uppgift4/Uppgift4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uppgift5/Uppgift5.iml" filepath="$PROJECT_DIR$/Uppgift5/Uppgift5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uppgifft1.iml" filepath="$PROJECT_DIR$/uppgifft1.iml" />
+    </modules>
+  </component>
+</project>
